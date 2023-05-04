@@ -1,21 +1,24 @@
-### Hi there 👋 (Em Construçao)
+### Ola! Sou o Mauricio Inhaia 👋 (Perfil em Construcao)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente trabalhando com Back End (Java);
+- 🌱 Estou estudando para me tornar um FullStack;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricioinhaia&show_icons=true&theme=dracula)
+<div><br>
+  <a href="https://github.com/mauricioinhaia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauricioinhaia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioinhaia&layout=compact&langs_count=7&theme=github_dark&hide=qml,batchfile"/>
+</div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Mauricio-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Mauricio-SpringBoot" height="30" width="50" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
-  <img align="center" alt="Mauricio-Angular" height="30" width="25" src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png">
-  <img align="center" alt="Mauricio-Node" height="30" width="25" src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-icon-logo.png">
-  <img align="center" alt="Mauricio-React" height="30" width="25" src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png">
+  <img align="center" alt="Mauricio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Mauricio-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Mauricio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Mauricio-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Mauricio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Mauricio-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Mauricio-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Mauricio-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
 </div>
   
+  <p align="center"> 
+    <img alingn="center" src="https://profile-counter.glitch.me/mauricioinhaia/count.svg" />
