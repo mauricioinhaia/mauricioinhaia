@@ -11,7 +11,9 @@
 </div>
 
 ### Habilidades  
+
 <div style="display: inline_block"><br>
+  <p align="center"> 
   <img align="center" alt="Mauricio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Mauricio-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Mauricio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
