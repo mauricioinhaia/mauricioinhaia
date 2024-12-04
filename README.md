@@ -1,7 +1,9 @@
-### Ola! Sou o Mauricio Inhaia 👋 (Perfil em Construcao)
+### Olá! Sou o Maurício Inhaia 👋
 
-- 🔭 Atualmente trabalhando com Back End (Java);
-- 🌱 Estou estudando para me tornar um FullStack;
+💻 Desenvolvedor Back End dedicado, trabalhando com Java, Spring Boot, e APIs REST para criar soluções escaláveis e eficientes.
+🔍 Experiência com bancos de dados SQL, integração contínua com Git, e boas práticas em arquitetura de software.
+🚀 Foco no desenvolvimento backend e no aprendizado constante de tecnologias como containers (Docker) e sistemas de mensageria (Kafka).
+🌱 Sempre buscando evoluir e contribuir com soluções de impacto no mundo da tecnologia.
 
 ### GitHub Stats
 <div><br>
